@@ -31,7 +31,7 @@
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="text5360" />
   <defs
      id="defs2" />
   <g
@@ -188,16 +188,34 @@
        transform="matrix(0.26458333,0,0,0.26458333,-3.0445839,-2.1837603)"
        inkscape:transform-center-x="0.15520925"
        inkscape:transform-center-y="-0.59604434" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.131px;line-height:1.25;font-family:'ROG Fonts';-inkscape-font-specification:'ROG Fonts, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="44.610428"
-       y="44.190605"
-       id="text5360"><tspan
-         sodipodi:role="line"
-         id="tspan5358"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.131px;font-family:'ROG Fonts';-inkscape-font-specification:'ROG Fonts, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0099ff;stroke:#000000;stroke-width:0.265;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="44.610428"
-         y="44.190605">spARCS</tspan></text>
+    <g
+       aria-label="spARCS"
+       id="text5360"
+       style="font-size:14.131px;line-height:1.25;font-family:'ROG Fonts';-inkscape-font-specification:'ROG Fonts, Normal';stroke-width:0.265">
+      <path
+         d="m 56.452205,42.692719 -1.28592,1.497886 h -8.916661 l -1.27179,-1.455493 h 7.955753 l 0.522847,-0.607633 v -2.162043 h -8.097063 v -4.09799 l 1.342445,-1.568541 h 10.089533 l -1.243527,1.455493 h -6.599177 l -0.635895,0.720681 v 2.034864 h 8.139455 z"
+         style="fill:#0099ff;stroke:#000000"
+         id="path841" />
+      <path
+         d="m 60.691512,40.686117 v 3.504488 h -2.96751 v -9.8917 h 10.951525 v 6.387212 z m -0.02826,-4.931719 v 3.476226 h 5.044767 v -3.476226 z"
+         style="fill:#0099ff;stroke:#000000"
+         id="path843" />
+      <path
+         d="m 81.026014,34.298905 v 9.8917 h -2.967509 v -4.211038 h -5.22847 v 4.211038 h -3.024034 v -9.8917 z m -8.153586,1.455493 v 2.755545 h 5.115422 v -2.755545 z"
+         style="fill:#0099ff;stroke:#000000"
+         id="path845" />
+      <path
+         d="m 94.42221,44.190605 h -3.490356 l -5.327387,-6.07633 h 5.002374 v -2.359877 h -5.454566 v 8.436207 h -2.995772 v -9.8917 h 11.361323 v 5.270863 h -3.137081 z"
+         style="fill:#0099ff;stroke:#000000"
+         id="path847" />
+      <path
+         d="m 106.12266,42.735112 -1.27179,1.455493 h -9.863435 v -9.8917 h 11.121095 l -1.25766,1.455493 h -6.839401 v 6.980714 z"
+         style="fill:#0099ff;stroke:#000000"
+         id="path849" />
+      <path
+         d="m 118.24705,42.692719 -1.28592,1.497886 h -8.91666 l -1.27179,-1.455493 h 7.95576 l 0.52284,-0.607633 v -2.162043 h -8.09706 v -4.09799 l 1.34245,-1.568541 h 10.08953 l -1.24353,1.455493 h -6.59918 l -0.63589,0.720681 v 2.034864 h 8.13945 z"
+         style="fill:#0099ff;stroke:#000000"
+         id="path851" />
+    </g>
   </g>
 </svg>
