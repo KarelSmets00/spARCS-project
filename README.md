@@ -1,17 +1,17 @@
 # spARCS-project
-### an ARCS course project proposal for situational aware robotics 
+### An ARCS course project proposal for situational aware robotics 
 ![](./assets/spARCS_logo.svg).
 
 ## 
 
-# proposal
-### ideoalogy
-small explenation to introduce relevance of (self-)aware production machines
+# Proposal
+### Ideology
+Todays industrial sector stands in front of two chalenges. First, find a way to cope with loss of skill due to retirement. Second, fulfilling the demand on high custimization of products in the pursuit of added value. In general, production machines and processes have to become aware of their operation to be able to run autonomously. This reduces te need for skilled operators and allows 'mass production' of speciality work. Within the spARCS project, the possibility of a situation aware robotic welding sytem is investigated to serve the above mentioned challenges.
 
 ### Task
 The welding of a fillet weld(s).
 ### Perception
-* Detection of feature
+* Detection of weld feature (feature = one weld with all its characteristics and its adjacent geometry; a CAD model of an assembly to be welded contains a feature for each weld)
     * Using a camera mounted on robot arm 1 
     * Detecting the feature to be welded (features defined by CAD model)
     * Determining the location and rough direction of weld
@@ -40,7 +40,7 @@ The welding of a fillet weld(s).
     * Camera arm motion feedback: successive re-evaluation of environment
     * Welding torche feedback: using lidar to keep torche centered in the corner
     ![](./assets/lidar_position_feedback.svg).
-    * Weld gap control based on welding current
+    * Weld gap control based on welding current/voltege (dependant on welding process)
     
 
 ## Conclusion
